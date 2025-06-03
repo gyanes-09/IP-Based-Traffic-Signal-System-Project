@@ -1,0 +1,16 @@
+names:
+- MORE_THAN_TWO_PERSONS
+- USING_MOBILE
+- WITHOUT_HELMET
+- WITH_HELMET
+- normal
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: 3riders
+  url: https://universe.roboflow.com/kashish/3riders/dataset/2
+  version: 2
+  workspace: kashish
+test: ../test/images
+train: ../train/images
+val: ../valid/images

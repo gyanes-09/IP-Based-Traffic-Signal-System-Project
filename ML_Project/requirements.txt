@@ -1,0 +1,29 @@
+# Core libraries
+numpy==1.24.4
+pandas==1.5.3
+
+# YOLO and computer vision
+ultralytics==8.0.50
+opencv-python-headless==4.8.0.76
+
+# OCR for number plate recognition
+pytesseract==0.3.10
+Pillow==9.5.0
+
+
+# Database management
+pymongo==4.5.0
+
+# Hardware acceleration (CPU optimized for Mac)
+torch==2.0.1
+torchvision==0.15.2
+
+
+# Utilities
+tqdm==4.65.0
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Development tools
+jupyter==1.0.0
+ipykernel==6.23.2

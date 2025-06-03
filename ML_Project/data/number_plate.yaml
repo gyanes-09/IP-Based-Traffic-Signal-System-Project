@@ -1,0 +1,5 @@
+train: data/images/train  # Path to training images
+val: data/images/val      # Path to validation images
+
+nc: 1  # Number of classes (number plates)
+names: ['number_plate']  # Class name

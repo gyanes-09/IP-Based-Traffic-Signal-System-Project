@@ -1,0 +1,5 @@
+[
+    {"plate_number": "ABC1234", "crime": "Stolen Vehicle"},
+    {"plate_number": "XYZ5678", "crime": "Unpaid Fines"},
+    {"plate_number": "LMN9101", "crime": "Hit and Run"}
+]

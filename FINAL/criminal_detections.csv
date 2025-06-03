@@ -1,0 +1,436 @@
+Timestamp,License Plate,Confidence,Vehicle Type,Speed,Violations
+2025-04-08 21:53:09.933,NO51VSU,0.15,Car,0.9,Lane Crossing;Criminal Vehicle
+2025-04-08 21:53:13.448,NA13NRU,0.49,Car,4.2,Lane Crossing
+2025-04-08 21:53:14.648,ML51VSU,0.48,Car,3.5,Lane Crossing;Criminal Vehicle
+2025-04-08 21:53:14.648,NA13NRU,0.49,Car,3.8,Lane Crossing
+2025-04-08 21:53:15.534,NA13NRU,0.42,Car,3.4,Lane Crossing
+2025-04-08 21:53:18.278,NA13NRU,0.33,Car,3.7,Lane Crossing
+2025-04-08 21:53:19.015,NA13NRU,0.34,Car,3.9,Lane Crossing
+2025-04-08 21:53:19.639,NA13NRU,0.49,Car,4.0,Lane Crossing
+2025-04-08 21:53:20.859,NA13NRU,0.70,Car,4.3,Lane Crossing
+2025-04-08 21:53:21.417,NA13NRU,0.32,Car,4.5,Lane Crossing
+2025-04-08 21:53:22.019,NA13NRU,0.14,Car,4.7,Lane Crossing
+2025-04-08 21:53:22.550,NA13NRU,0.38,Car,4.7,Lane Crossing
+2025-04-08 21:53:23.183,NA13NRU,0.70,Car,4.3,Lane Crossing
+2025-04-08 21:53:24.264,NA13NRU,0.37,Car,4.8,Lane Crossing
+2025-04-08 21:53:24.914,NA13NRU,0.65,Car,4.4,Lane Crossing
+2025-04-08 21:53:25.896,NA13NRU,0.59,Car,4.0,Lane Crossing
+2025-04-08 21:53:28.243,NA13NRU,0.33,Car,5.2,Lane Crossing
+2025-04-08 21:53:34.601,GX15OGJ,0.23,Car,3.2,Lane Crossing
+2025-04-10 11:35:29.881,NO51VSU,0.15,Car,1.0,Lane Crossing;Criminal Vehicle
+2025-04-10 11:35:32.859,NA13NRU,0.49,Car,5.0,Lane Crossing
+2025-04-10 11:35:33.288,ML51VSU,0.48,Car,4.6,Lane Crossing;Criminal Vehicle
+2025-04-10 11:35:33.288,NA13NRU,0.49,Car,5.2,Lane Crossing
+2025-04-10 11:35:33.770,NA13NRU,0.42,Car,4.8,Lane Crossing
+2025-04-10 11:57:44.218,NO51VSU,0.15,Car,0.8,Lane Crossing;Criminal Vehicle
+2025-04-10 12:52:16.728,NO51VSU,0.15,Car,1.2,Lane Crossing;Criminal Vehicle
+2025-04-10 12:52:19.542,NA13NRU,0.49,Car,5.4,Lane Crossing
+2025-04-10 12:52:19.899,ML51VSU,0.48,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-10 12:52:19.899,NA13NRU,0.49,Car,5.8,Lane Crossing
+2025-04-10 12:52:20.244,NA13NRU,0.42,Car,5.6,Lane Crossing
+2025-04-10 12:52:21.791,NA13NRU,0.10,Car,6.5,Lane Crossing
+2025-04-10 12:52:22.561,NA13NRU,0.49,Car,7.0,Lane Crossing
+2025-04-10 12:52:23.420,NA13NRU,0.70,Car,7.0,Lane Crossing
+2025-04-10 12:52:24.308,NA13NRU,0.32,Car,6.2,Lane Crossing
+2025-04-10 12:52:24.700,NA13NRU,0.14,Car,6.7,Lane Crossing
+2025-04-10 12:52:25.097,NA13NRU,0.33,Car,6.7,Lane Crossing
+2025-04-10 12:52:25.455,NA13NRU,0.70,Car,6.3,Lane Crossing
+2025-04-10 12:52:26.167,NA13NRU,0.37,Car,7.1,Lane Crossing
+2025-04-10 16:22:54.345,NO51VSU,0.15,Car,1.1,Lane Crossing;Criminal Vehicle
+2025-04-10 16:22:57.828,NA13NRU,0.49,Car,4.3,Lane Crossing
+2025-04-10 16:22:58.210,ML51VSU,0.48,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-10 16:22:58.210,NA13NRU,0.49,Car,4.8,Lane Crossing
+2025-04-10 16:22:58.596,NA13NRU,0.42,Car,4.6,Lane Crossing
+2025-04-10 16:23:00.474,NA13NRU,0.33,Car,5.4,Lane Crossing
+2025-04-10 16:23:01.128,NA13NRU,0.34,Car,5.4,Lane Crossing
+2025-04-10 16:23:01.728,NA13NRU,0.49,Car,5.2,Lane Crossing
+2025-04-10 16:23:03.034,NA13NRU,0.70,Car,4.9,Lane Crossing
+2025-04-10 16:23:03.539,NA13NRU,0.32,Car,5.1,Lane Crossing
+2025-04-10 16:23:03.941,NA13NRU,0.14,Car,5.8,Lane Crossing
+2025-04-10 16:23:41.352,NO51VSU,0.15,Car,1.5,Lane Crossing;Criminal Vehicle
+2025-04-10 16:23:44.279,NA13NRU,0.49,Car,5.1,Lane Crossing
+2025-04-10 16:23:44.666,ML51VSU,0.48,Car,5.0,Lane Crossing;Criminal Vehicle
+2025-04-10 16:23:44.666,NA13NRU,0.49,Car,5.4,Lane Crossing
+2025-04-10 16:23:45.058,NA13NRU,0.42,Car,5.2,Lane Crossing
+2025-04-10 18:25:39.293,NO51VSU,0.15,Car,1.0,Lane Crossing;Criminal Vehicle
+2025-04-10 18:25:42.226,NA13NRU,0.49,Car,5.3,Lane Crossing
+2025-04-10 18:25:42.577,ML51VSU,0.48,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-10 18:25:42.577,NA13NRU,0.49,Car,5.7,Lane Crossing
+2025-04-10 18:25:42.919,NA13NRU,0.42,Car,5.5,Lane Crossing
+2025-04-10 18:25:44.593,NA13NRU,0.33,Car,6.1,Lane Crossing
+2025-04-10 18:25:45.175,NA13NRU,0.34,Car,6.0,Lane Crossing
+2025-04-10 18:25:45.551,NA13NRU,0.49,Car,6.2,Lane Crossing
+2025-04-10 18:25:46.208,NA13NRU,0.70,Car,7.1,Lane Crossing
+2025-04-10 18:25:46.569,NA13NRU,0.32,Car,7.3,Lane Crossing
+2025-04-10 18:25:46.928,NA13NRU,0.14,Car,7.8,Lane Crossing
+2025-04-10 18:25:47.250,NA13NRU,0.38,Car,7.8,Lane Crossing
+2025-04-10 18:25:47.571,NA13NRU,0.70,Car,7.3,Lane Crossing
+2025-04-10 18:25:48.214,NA13NRU,0.37,Car,8.1,Lane Crossing
+2025-04-10 18:25:48.598,NA13NRU,0.65,Car,7.5,Lane Crossing
+2025-04-10 18:25:49.055,NA13NRU,0.59,Car,7.0,Lane Crossing
+2025-04-10 18:25:50.506,NA13NRU,0.33,Car,8.6,Lane Crossing
+2025-04-10 18:25:55.255,GX15OGJ,0.23,Car,4.3,Lane Crossing
+2025-04-10 18:26:00.399,GX15OGJ,0.18,Car,5.1,Lane Crossing
+2025-04-10 18:26:00.718,GX15OGJ,0.35,Car,4.9,Lane Crossing
+2025-04-10 18:26:02.781,GX15OGJ,0.28,Car,6.1,Lane Crossing
+2025-04-10 18:26:05.184,GX15OGJ,0.38,Car,7.2,Lane Crossing
+2025-04-10 18:26:06.073,GX15OGJ,0.35,Car,6.8,Lane Crossing
+2025-04-10 18:26:06.665,GX15OGJ,0.30,Car,6.3,Lane Crossing
+2025-04-10 18:26:07.540,GX15OGJ,0.53,Car,7.2,Lane Crossing
+2025-04-10 18:26:09.863,GX15OGJ,0.30,Car,7.3,Lane Crossing
+2025-04-10 18:26:10.407,GX15OGJ,0.43,Car,8.2,Lane Crossing
+2025-04-10 18:26:11.027,GX15OGJ,0.50,Car,8.4,Lane Crossing
+2025-04-10 18:26:11.429,GX15OGJ,0.40,Car,7.8,Lane Crossing
+2025-04-10 18:26:11.781,GX15OGJ,0.34,Car,6.8,Lane Crossing
+2025-04-10 18:26:12.736,GX15OGJ,0.42,Car,6.7,Lane Crossing
+2025-04-10 18:26:17.748,AP05JEO,0.23,Car,4.1,Lane Crossing
+2025-04-10 18:26:21.586,AP05JEO,0.34,Car,5.2,Lane Crossing
+2025-04-10 18:26:23.285,AP05JEO,0.22,Car,5.8,Lane Crossing
+2025-04-10 18:26:23.628,AP05JEO,0.30,Car,5.2,Lane Crossing
+2025-04-10 18:26:23.922,GX15OGJ,0.50,Car,7.4,Lane Crossing
+2025-04-10 18:26:24.269,GX15OGJ,0.52,Car,7.3,Lane Crossing
+2025-04-10 18:26:25.306,AP05JEO,0.29,Car,5.1,Lane Crossing
+2025-04-10 18:26:25.722,AP05JEO,0.36,Car,4.8,Lane Crossing
+2025-04-10 18:26:26.440,GX15OGJ,0.39,Car,6.8,Lane Crossing
+2025-04-10 18:26:26.440,AP05JEO,0.42,Car,4.3,Lane Crossing
+2025-04-10 18:26:26.866,GX15OGJ,0.26,Car,6.1,Lane Crossing
+2025-04-10 18:26:26.866,AP05JEO,0.23,Car,4.2,Lane Crossing
+2025-04-10 18:26:27.241,AP05JEO,0.48,Car,4.4,Lane Crossing
+2025-04-10 18:26:27.616,AP05JEO,0.22,Car,4.6,Lane Crossing
+2025-04-10 18:26:28.156,AP05JEO,0.16,Car,4.3,Lane Crossing
+2025-04-10 18:26:28.623,AP05JEO,0.49,Car,4.1,Lane Crossing
+2025-04-10 18:26:28.924,AP05JEO,0.16,Car,4.9,Lane Crossing
+2025-04-10 18:26:29.272,KH05ZZK,0.54,Car,5.6,Lane Crossing
+2025-04-10 18:26:29.272,AP05JEO,0.24,Car,4.8,Lane Crossing
+2025-04-10 18:26:29.616,AP05JEO,0.21,Car,4.9,Lane Crossing
+2025-04-10 18:26:30.011,AP05JEO,0.27,Car,5.4,Lane Crossing
+2025-04-10 18:26:30.388,AP05JEO,0.17,Car,5.3,Lane Crossing
+2025-04-10 18:26:31.032,AP05JEO,0.26,Car,5.7,Lane Crossing
+2025-04-10 18:26:31.379,KH05ZZK,0.74,Car,5.2,Lane Crossing
+2025-04-10 18:26:31.379,AP05JEO,0.41,Car,5.4,Lane Crossing
+2025-04-10 18:26:31.696,AP05JEO,0.38,Car,6.0,Lane Crossing
+2025-04-10 18:26:32.068,AP05JEO,0.23,Car,6.5,Lane Crossing
+2025-04-10 18:26:32.504,KH05ZZK,0.62,Car,4.2,Lane Crossing
+2025-04-10 18:26:32.924,AP05JEO,0.30,Car,5.6,Lane Crossing
+2025-04-10 18:26:33.320,AP05JEO,0.46,Car,5.6,Lane Crossing
+2025-04-10 18:26:33.663,AP05JEO,0.36,Car,5.2,Lane Crossing
+2025-04-10 18:26:33.982,AP05JEO,0.51,Car,5.8,Lane Crossing
+2025-04-10 18:26:33.982,KH05ZZK,0.38,Car,4.7,Lane Crossing
+2025-04-10 18:26:34.351,AP05JEO,0.60,Car,6.9,Lane Crossing
+2025-04-10 18:26:34.351,KH05ZZK,0.13,Car,4.5,Lane Crossing
+2025-04-10 18:26:34.669,AP05JEO,0.43,Car,6.9,Lane Crossing
+2025-04-10 18:26:34.669,KH05ZZK,0.58,Car,4.4,Lane Crossing
+2025-04-10 18:26:34.981,AP05JEO,0.24,Car,6.5,Lane Crossing
+2025-04-10 18:26:35.304,KH05ZZK,0.44,Car,5.1,Lane Crossing
+2025-04-10 18:26:35.304,AP05JEO,0.38,Car,6.5,Lane Crossing
+2025-04-10 18:26:35.992,AP05JEO,0.41,Car,6.5,Lane Crossing
+2025-04-10 18:26:36.813,AP05JEO,0.38,Car,6.4,Lane Crossing
+2025-04-10 18:26:37.254,AP05JEO,0.29,Car,6.3,Lane Crossing
+2025-04-10 18:26:37.254,KH05ZZK,0.12,Car,4.6,Lane Crossing
+2025-04-10 18:26:37.639,AP05JEO,0.20,Car,6.8,Lane Crossing
+2025-04-10 18:26:37.639,KH05ZZK,0.96,Car,5.4,Lane Crossing
+2025-04-10 18:26:39.363,AP05JEO,0.57,Car,5.3,Lane Crossing
+2025-04-10 18:26:40.521,AP05JEO,0.27,Car,5.8,Lane Crossing
+2025-04-10 18:26:41.252,AP05JEO,0.29,Car,6.5,Lane Crossing
+2025-04-10 18:26:41.581,KH05ZZK,0.20,Car,4.7,Lane Crossing
+2025-04-10 18:26:42.321,AP05JEO,0.11,Car,7.1,Lane Crossing
+2025-04-10 18:26:42.664,AP05JEO,0.32,Car,7.3,Lane Crossing
+2025-04-10 18:26:42.981,AP05JEO,0.57,Car,8.2,Lane Crossing
+2025-04-10 18:26:43.678,KH05ZZK,0.15,Car,4.7,Lane Crossing
+2025-04-10 18:26:43.678,AP05JEO,0.42,Car,7.8,Lane Crossing
+2025-04-10 18:26:45.116,KH05ZZK,0.49,Car,5.4,Lane Crossing
+2025-04-10 18:26:45.496,KH05ZZK,0.63,Car,5.7,Lane Crossing
+2025-04-10 18:26:45.496,AP05JEO,0.31,Car,6.4,Lane Crossing
+2025-04-10 18:26:45.843,AP05JEO,0.31,Car,6.3,Lane Crossing
+2025-04-10 18:26:46.205,AP05JEO,0.17,Car,6.6,Lane Crossing
+2025-04-10 18:26:46.524,KH05ZZK,0.62,Car,6.0,Lane Crossing
+2025-04-10 18:26:46.524,AP05JEO,0.45,Car,7.3,Lane Crossing
+2025-04-10 18:26:47.502,AP05JEO,0.47,Car,8.5,Lane Crossing
+2025-04-10 18:26:47.838,KH05ZZK,0.68,Car,6.8,Lane Crossing
+2025-04-10 18:26:48.225,AP05JEO,0.34,Car,8.2,Lane Crossing
+2025-04-10 18:26:48.560,KH05ZZK,0.46,Car,6.9,Lane Crossing
+2025-04-10 18:26:48.560,AP05JEO,0.28,Car,9.0,Lane Crossing
+2025-04-10 18:26:48.910,AP05JEO,0.44,Car,8.4,Lane Crossing
+2025-04-10 18:26:49.241,AP05JEO,0.24,Car,8.2,Lane Crossing
+2025-04-10 18:26:49.560,AP05JEO,0.32,Car,7.8,Lane Crossing
+2025-04-10 18:26:49.987,AP05JEO,0.24,Car,7.2,Lane Crossing
+2025-04-10 18:26:49.987,KH05ZZK,0.39,Car,6.2,Lane Crossing
+2025-04-10 18:26:50.355,AP05JEO,0.26,Car,7.2,Lane Crossing
+2025-04-10 18:26:51.028,AP05JEO,0.17,Car,7.4,Lane Crossing
+2025-04-10 18:26:51.374,AP05JEO,0.49,Car,7.5,Lane Crossing
+2025-04-10 18:26:51.722,AP05JEO,0.30,Car,7.7,Lane Crossing
+2025-04-10 18:26:52.128,AP05JEO,0.25,Car,7.2,Lane Crossing
+2025-04-10 18:26:52.932,KH05ZZK,0.83,Car,6.2,Lane Crossing
+2025-04-10 18:26:54.309,AP05JEO,0.47,Car,5.7,Lane Crossing
+2025-04-10 18:26:54.686,AP05JEO,0.33,Car,5.5,Lane Crossing
+2025-04-10 18:26:54.995,KH05ZZK,0.53,Car,6.7,Lane Crossing
+2025-04-10 18:26:54.995,AP05JEO,0.40,Car,5.2,Lane Crossing
+2025-04-10 18:26:55.494,AP05JEO,0.46,Car,5.3,Lane Crossing
+2025-04-10 18:26:55.494,KH05ZZK,0.59,Car,6.4,Lane Crossing
+2025-04-10 18:26:55.983,AP05JEO,0.25,Car,4.5,Lane Crossing
+2025-04-10 18:26:56.448,AP05JEO,0.46,Car,3.7,Lane Crossing
+2025-04-10 18:26:56.769,AP05JEO,0.18,Car,3.8,Lane Crossing
+2025-04-10 18:26:57.089,KH05ZZK,0.97,Car,7.4,Lane Crossing
+2025-04-10 18:26:57.089,AP05JEO,0.41,Car,5.0,Lane Crossing
+2025-04-10 18:26:57.738,AP05JEO,0.54,Car,5.0,Lane Crossing
+2025-04-10 18:26:58.072,KH05ZZK,0.48,Car,8.0,Lane Crossing
+2025-04-10 18:26:58.072,AP05JEO,0.29,Car,5.0,Lane Crossing
+2025-04-10 18:26:58.737,AP05JEO,0.23,Car,4.4,Lane Crossing
+2025-04-10 18:26:58.737,KH05ZZK,0.41,Car,7.1,Lane Crossing
+2025-04-10 18:26:59.341,KH05ZZK,0.64,Car,7.3,Lane Crossing
+2025-04-10 18:26:59.341,AP05JEO,0.30,Car,4.5,Lane Crossing
+2025-04-10 18:27:04.019,KH05ZZK,0.28,Car,8.2,Lane Crossing
+2025-04-10 18:27:05.676,KH05ZZK,0.48,Car,6.9,Lane Crossing
+2025-04-10 18:27:05.980,KH05ZZK,0.34,Car,7.1,Lane Crossing
+2025-04-10 18:27:06.427,KH05ZZK,0.39,Car,5.8,Lane Crossing
+2025-04-10 18:28:39.927,NO51VSU,0.15,Car,1.6,Lane Crossing;Criminal Vehicle
+2025-04-10 18:28:42.877,NA13NRU,0.49,Car,5.3,Lane Crossing
+2025-04-10 18:28:43.276,ML51VSU,0.48,Car,5.0,Lane Crossing;Criminal Vehicle
+2025-04-10 18:28:43.276,NA13NRU,0.49,Car,5.5,Lane Crossing
+2025-04-10 18:28:43.645,NA13NRU,0.42,Car,5.3,Lane Crossing
+2025-04-10 18:28:45.524,NA13NRU,0.33,Car,5.6,Lane Crossing
+2025-04-10 18:28:46.088,NA13NRU,0.34,Car,5.7,Lane Crossing
+2025-04-10 18:28:46.521,NA13NRU,0.49,Car,5.8,Lane Crossing
+2025-04-10 18:28:47.614,NA13NRU,0.70,Car,5.7,Lane Crossing
+2025-04-10 18:28:48.623,NA13NRU,0.32,Car,5.2,Lane Crossing
+2025-04-10 18:28:49.033,NA13NRU,0.14,Car,5.8,Lane Crossing
+2025-04-10 18:28:49.390,NA13NRU,0.38,Car,6.1,Lane Crossing
+2025-04-10 18:28:49.744,NA13NRU,0.70,Car,5.8,Lane Crossing
+2025-04-10 18:28:50.604,NA13NRU,0.37,Car,6.4,Lane Crossing
+2025-04-10 18:28:51.083,NA13NRU,0.65,Car,5.9,Lane Crossing
+2025-04-10 18:28:51.642,NA13NRU,0.59,Car,5.6,Lane Crossing
+2025-04-10 18:28:53.448,NA13NRU,0.33,Car,7.2,Lane Crossing
+2025-04-10 18:28:59.071,GX15OGJ,0.23,Car,3.8,Lane Crossing
+2025-04-10 18:29:04.453,GX15OGJ,0.18,Car,5.0,Lane Crossing
+2025-04-10 18:29:04.785,GX15OGJ,0.35,Car,4.8,Lane Crossing
+2025-04-10 18:29:06.769,GX15OGJ,0.28,Car,6.3,Lane Crossing
+2025-04-10 18:29:09.538,GX15OGJ,0.38,Car,6.1,Lane Crossing
+2025-04-10 18:29:10.574,GX15OGJ,0.35,Car,5.8,Lane Crossing
+2025-04-10 18:29:11.248,GX15OGJ,0.30,Car,5.4,Lane Crossing
+2025-04-10 18:29:12.259,GX15OGJ,0.53,Car,6.2,Lane Crossing
+2025-04-10 18:29:14.846,GX15OGJ,0.30,Car,6.6,Lane Crossing
+2025-04-10 18:29:15.394,GX15OGJ,0.43,Car,7.8,Lane Crossing
+2025-04-10 18:29:15.946,GX15OGJ,0.50,Car,8.6,Lane Crossing
+2025-04-10 18:29:16.235,GX15OGJ,0.40,Car,8.3,Lane Crossing
+2025-04-10 18:29:16.565,GX15OGJ,0.34,Car,7.2,Lane Crossing
+2025-04-10 18:29:17.277,GX15OGJ,0.42,Car,7.7,Lane Crossing
+2025-04-10 18:30:08.045,NO51VSU,0.15,Car,1.6,Lane Crossing;Criminal Vehicle
+2025-04-10 18:30:10.841,NA13NRU,0.49,Car,5.4,Lane Crossing
+2025-04-10 18:30:11.211,ML51VSU,0.48,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-10 18:30:11.211,NA13NRU,0.49,Car,5.8,Lane Crossing
+2025-04-10 18:30:11.594,NA13NRU,0.42,Car,5.4,Lane Crossing
+2025-04-10 18:30:13.504,NA13NRU,0.33,Car,5.7,Lane Crossing
+2025-04-10 18:30:14.110,NA13NRU,0.34,Car,5.7,Lane Crossing
+2025-04-10 18:30:14.501,NA13NRU,0.49,Car,5.9,Lane Crossing
+2025-04-10 18:30:15.184,NA13NRU,0.70,Car,6.8,Lane Crossing
+2025-04-10 18:30:15.541,NA13NRU,0.32,Car,7.1,Lane Crossing
+2025-04-10 18:30:15.897,NA13NRU,0.14,Car,7.6,Lane Crossing
+2025-04-10 18:30:16.320,NA13NRU,0.38,Car,7.3,Lane Crossing
+2025-04-10 18:30:16.661,NA13NRU,0.70,Car,6.8,Lane Crossing
+2025-04-10 18:30:17.337,NA13NRU,0.37,Car,7.6,Lane Crossing
+2025-04-10 18:30:17.697,NA13NRU,0.65,Car,7.2,Lane Crossing
+2025-04-10 18:30:18.162,NA13NRU,0.59,Car,6.8,Lane Crossing
+2025-04-10 18:30:19.589,NA13NRU,0.33,Car,8.7,Lane Crossing
+2025-04-10 18:33:05.144,NO51VSU,0.15,Car,1.6,Lane Crossing;Criminal Vehicle
+2025-04-10 18:33:08.787,NA13NRU,0.49,Car,4.5,Lane Crossing
+2025-04-10 18:33:09.179,ML51VSU,0.48,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-10 18:33:09.179,NA13NRU,0.49,Car,4.9,Lane Crossing
+2025-04-10 18:33:09.591,NA13NRU,0.42,Car,4.7,Lane Crossing
+2025-04-10 18:34:37.997,NO51VSU,0.15,Car,1.6,Lane Crossing;Criminal Vehicle
+2025-04-10 18:34:40.863,NA13NRU,0.49,Car,5.2,Lane Crossing
+2025-04-10 18:34:41.234,ML51VSU,0.48,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-10 18:34:41.234,NA13NRU,0.49,Car,5.6,Lane Crossing
+2025-04-10 18:34:41.604,NA13NRU,0.42,Car,5.3,Lane Crossing
+2025-04-10 18:34:43.234,NA13NRU,0.33,Car,6.1,Lane Crossing
+2025-04-10 18:34:43.792,NA13NRU,0.34,Car,6.1,Lane Crossing
+2025-04-10 18:34:44.172,NA13NRU,0.49,Car,6.3,Lane Crossing
+2025-04-10 18:34:44.894,NA13NRU,0.70,Car,6.9,Lane Crossing
+2025-04-10 18:34:45.249,NA13NRU,0.32,Car,7.2,Lane Crossing
+2025-04-10 18:34:45.618,NA13NRU,0.14,Car,7.6,Lane Crossing
+2025-04-10 18:34:45.959,NA13NRU,0.38,Car,7.6,Lane Crossing
+2025-04-10 18:34:46.318,NA13NRU,0.70,Car,7.0,Lane Crossing
+2025-04-10 18:34:47.017,NA13NRU,0.37,Car,7.6,Lane Crossing
+2025-04-10 18:34:47.780,NA13NRU,0.65,Car,6.6,Lane Crossing
+2025-04-10 18:34:48.268,NA13NRU,0.59,Car,6.3,Lane Crossing
+2025-04-10 18:34:49.734,NA13NRU,0.33,Car,8.4,Lane Crossing
+2025-04-10 18:34:54.260,GX15OGJ,0.23,Car,4.4,Lane Crossing
+2025-04-10 18:34:59.882,GX15OGJ,0.18,Car,4.9,Lane Crossing
+2025-04-10 18:35:00.246,GX15OGJ,0.35,Car,4.7,Lane Crossing
+2025-04-10 18:35:02.296,GX15OGJ,0.28,Car,6.2,Lane Crossing
+2025-04-10 18:35:46.258,NO51VSU,0.15,Car,1.4,Lane Crossing;Criminal Vehicle
+2025-04-10 18:35:49.160,NA13NRU,0.49,Car,4.9,Lane Crossing
+2025-04-10 18:35:49.549,ML51VSU,0.48,Car,4.8,Lane Crossing;Criminal Vehicle
+2025-04-10 18:35:49.549,NA13NRU,0.49,Car,5.3,Lane Crossing
+2025-04-10 18:35:50.000,NA13NRU,0.42,Car,4.9,Lane Crossing
+2025-04-10 18:35:51.883,NA13NRU,0.33,Car,5.5,Lane Crossing
+2025-04-10 18:35:52.464,NA13NRU,0.34,Car,5.6,Lane Crossing
+2025-04-10 18:35:52.856,NA13NRU,0.49,Car,5.8,Lane Crossing
+2025-04-10 18:35:53.833,NA13NRU,0.70,Car,6.0,Lane Crossing
+2025-04-10 18:35:54.178,NA13NRU,0.32,Car,6.5,Lane Crossing
+2025-04-10 18:35:54.532,NA13NRU,0.14,Car,7.2,Lane Crossing
+2025-04-10 18:35:54.845,NA13NRU,0.38,Car,7.4,Lane Crossing
+2025-04-10 18:35:55.169,NA13NRU,0.70,Car,6.9,Lane Crossing
+2025-04-10 18:35:56.072,NA13NRU,0.37,Car,6.9,Lane Crossing
+2025-04-10 18:35:56.505,NA13NRU,0.65,Car,6.4,Lane Crossing
+2025-04-10 18:35:57.098,NA13NRU,0.59,Car,5.9,Lane Crossing
+2025-04-10 18:35:58.633,NA13NRU,0.33,Car,8.0,Lane Crossing
+2025-04-11 09:02:56.851,NO51VSU,0.15,Car,1.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:02:59.684,NA13NRU,0.49,Car,5.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:00.047,ML51VSU,0.48,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:00.047,NA13NRU,0.49,Car,5.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:00.407,NA13NRU,0.42,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:02.029,NA13NRU,0.33,Car,6.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:02.738,NA13NRU,0.34,Car,5.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:03.193,NA13NRU,0.49,Car,5.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:03.887,NA13NRU,0.70,Car,6.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:04.259,NA13NRU,0.32,Car,7.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:04.716,NA13NRU,0.14,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:05.344,NA13NRU,0.38,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:05.749,NA13NRU,0.70,Car,6.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:06.702,NA13NRU,0.37,Car,6.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:07.173,NA13NRU,0.65,Car,5.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:03:07.735,NA13NRU,0.59,Car,5.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:51.592,NO51VSU,0.15,Car,1.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:54.321,NA13NRU,0.49,Car,5.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:54.668,ML51VSU,0.48,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:54.668,NA13NRU,0.49,Car,5.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:55.022,NA13NRU,0.42,Car,5.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:56.623,NA13NRU,0.33,Car,6.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:57.179,NA13NRU,0.34,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:57.567,NA13NRU,0.49,Car,6.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:58.223,NA13NRU,0.70,Car,7.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:58.696,NA13NRU,0.32,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:59.332,NA13NRU,0.14,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:11:59.710,NA13NRU,0.38,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:12:00.063,NA13NRU,0.70,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:21.596,NO51VSU,0.15,Car,1.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:24.407,NA13NRU,0.49,Car,5.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:24.790,ML51VSU,0.48,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:24.790,NA13NRU,0.49,Car,5.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:25.156,NA13NRU,0.42,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:26.897,NA13NRU,0.33,Car,5.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:28.521,NA13NRU,0.34,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:28.932,NA13NRU,0.49,Car,5.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:29.654,NA13NRU,0.70,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:30.039,NA13NRU,0.32,Car,6.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:30.430,NA13NRU,0.14,Car,7.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:30.791,NA13NRU,0.38,Car,7.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:31.188,NA13NRU,0.70,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:31.932,NA13NRU,0.37,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:32.350,NA13NRU,0.65,Car,6.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:32.865,NA13NRU,0.59,Car,6.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:34.292,NA13NRU,0.33,Car,8.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:39.178,GX15OGJ,0.23,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:44.046,GX15OGJ,0.18,Car,5.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:44.370,GX15OGJ,0.35,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:46.307,GX15OGJ,0.28,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:48.739,GX15OGJ,0.38,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:49.668,GX15OGJ,0.35,Car,6.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:50.242,GX15OGJ,0.30,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:51.181,GX15OGJ,0.53,Car,6.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:53.598,GX15OGJ,0.30,Car,7.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:54.156,GX15OGJ,0.43,Car,8.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:54.771,GX15OGJ,0.50,Car,8.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:55.066,GX15OGJ,0.40,Car,8.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:55.349,GX15OGJ,0.34,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:55:56.016,GX15OGJ,0.42,Car,7.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:00.409,AP05JEO,0.23,Car,4.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:04.063,AP05JEO,0.34,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:05.987,AP05JEO,0.22,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:06.334,AP05JEO,0.30,Car,4.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:06.682,GX15OGJ,0.50,Car,6.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:07.047,GX15OGJ,0.52,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:08.171,AP05JEO,0.29,Car,4.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:08.606,AP05JEO,0.36,Car,4.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:09.294,GX15OGJ,0.39,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:09.294,AP05JEO,0.42,Car,4.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:09.691,GX15OGJ,0.26,Car,6.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:09.691,AP05JEO,0.23,Car,4.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:10.089,AP05JEO,0.48,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:10.502,AP05JEO,0.22,Car,4.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:11.002,AP05JEO,0.16,Car,4.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:11.435,AP05JEO,0.49,Car,4.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:11.752,AP05JEO,0.16,Car,4.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:12.106,KH05ZZK,0.54,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:12.106,AP05JEO,0.24,Car,4.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:12.418,AP05JEO,0.21,Car,4.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:12.751,AP05JEO,0.27,Car,5.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:13.113,AP05JEO,0.17,Car,5.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:13.744,AP05JEO,0.26,Car,6.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:14.156,KH05ZZK,0.74,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:14.156,AP05JEO,0.41,Car,5.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:14.527,AP05JEO,0.38,Car,5.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:15.024,AP05JEO,0.23,Car,5.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:15.428,KH05ZZK,0.62,Car,4.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:15.909,AP05JEO,0.30,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:16.330,AP05JEO,0.46,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:16.685,AP05JEO,0.36,Car,4.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.035,AP05JEO,0.51,Car,5.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.035,KH05ZZK,0.38,Car,4.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.423,AP05JEO,0.60,Car,6.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.423,KH05ZZK,0.13,Car,4.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.760,AP05JEO,0.43,Car,6.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:17.760,KH05ZZK,0.58,Car,4.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:18.099,AP05JEO,0.24,Car,6.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:18.424,KH05ZZK,0.44,Car,4.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:18.424,AP05JEO,0.38,Car,6.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:19.096,AP05JEO,0.41,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:19.834,AP05JEO,0.38,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:20.208,AP05JEO,0.29,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:20.208,KH05ZZK,0.12,Car,4.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:20.541,AP05JEO,0.20,Car,7.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:20.541,KH05ZZK,0.96,Car,6.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:22.769,AP05JEO,0.57,Car,5.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:23.944,AP05JEO,0.27,Car,6.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:24.655,AP05JEO,0.29,Car,6.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:24.997,KH05ZZK,0.20,Car,4.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:25.695,AP05JEO,0.11,Car,7.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:26.052,AP05JEO,0.32,Car,7.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:26.387,AP05JEO,0.57,Car,8.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:27.150,KH05ZZK,0.15,Car,4.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:27.150,AP05JEO,0.42,Car,7.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:28.582,KH05ZZK,0.49,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:28.988,KH05ZZK,0.63,Car,5.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:28.988,AP05JEO,0.31,Car,6.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:29.400,AP05JEO,0.31,Car,6.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:29.793,AP05JEO,0.17,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:30.207,KH05ZZK,0.62,Car,5.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:30.207,AP05JEO,0.45,Car,6.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:31.361,AP05JEO,0.47,Car,7.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:31.874,KH05ZZK,0.68,Car,5.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:32.334,AP05JEO,0.34,Car,6.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:32.763,KH05ZZK,0.46,Car,5.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:32.763,AP05JEO,0.28,Car,7.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:33.144,AP05JEO,0.44,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:33.544,AP05JEO,0.24,Car,6.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:33.890,AP05JEO,0.32,Car,6.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:34.305,AP05JEO,0.24,Car,6.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:34.305,KH05ZZK,0.39,Car,5.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:34.668,AP05JEO,0.26,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:35.452,AP05JEO,0.17,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:35.782,AP05JEO,0.49,Car,6.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:36.103,AP05JEO,0.30,Car,7.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:36.452,AP05JEO,0.25,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:36.823,KH05ZZK,0.83,Car,6.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:37.874,AP05JEO,0.47,Car,6.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:38.231,AP05JEO,0.33,Car,6.5,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:38.577,KH05ZZK,0.53,Car,7.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:38.577,AP05JEO,0.40,Car,5.9,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:39.001,AP05JEO,0.46,Car,6.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:39.001,KH05ZZK,0.59,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:39.387,AP05JEO,0.25,Car,5.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:39.714,AP05JEO,0.46,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:40.058,AP05JEO,0.18,Car,4.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:40.395,KH05ZZK,0.97,Car,8.0,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:40.395,AP05JEO,0.41,Car,5.2,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:41.224,AP05JEO,0.54,Car,4.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:41.593,KH05ZZK,0.48,Car,7.6,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:41.593,AP05JEO,0.29,Car,4.7,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:42.201,AP05JEO,0.23,Car,4.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:42.201,KH05ZZK,0.41,Car,6.8,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:42.774,KH05ZZK,0.64,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:42.774,AP05JEO,0.30,Car,4.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:47.152,KH05ZZK,0.28,Car,8.4,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:48.740,KH05ZZK,0.48,Car,7.1,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:49.023,KH05ZZK,0.34,Car,7.3,Lane Crossing;Criminal Vehicle
+2025-04-11 09:56:49.325,KH05ZZK,0.39,Car,6.0,Lane Crossing;Criminal Vehicle

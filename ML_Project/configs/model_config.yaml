@@ -1,0 +1,5 @@
+model: yolov10.pt
+img_size: 640
+confidence: 0.5
+iou: 0.5
+device: '0'  # GPU index or 'cpu'
